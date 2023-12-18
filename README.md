@@ -1,2 +1,8 @@
-# Spotify_clone
- The "Spotify Clone" React app is a music streaming application that replicates the core features of the popular music platform, Spotify. This web application allows users to log in to their Spotify accounts, giving them access to a personalized music experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
